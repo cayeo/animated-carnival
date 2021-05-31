@@ -19,3 +19,4 @@ projects: []
 ```{r}
 summary(Orange)
 ```
+![](images/Groguin1.pdf)
